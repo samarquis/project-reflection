@@ -1,0 +1,6 @@
+interface:
+  display_name: "Project Reflection"
+  short_description: "Build evidence-backed project memory"
+  default_prompt: "Use $project-reflection to retrieve prior lessons, reflect after meaningful project events, run a deep review, or audit the learning system itself."
+policy:
+  allow_implicit_invocation: true
